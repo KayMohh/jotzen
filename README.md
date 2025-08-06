@@ -1,6 +1,3 @@
-### ✅ `README.md` – Jotzen: A Note-Taking API
-
-````markdown
 # 📝 Jotzen – The Zen of Note-Taking
 
 > _Jot it. Zen out._  
@@ -16,7 +13,10 @@
 
 ## 🚀 Overview
 
-Jotzen helps developers build clean, fast note-taking apps — like your own Google Keep — without reinventing the backend. Whether you're building a personal journal, a task manager, or a mobile app, Jotzen handles the notes so you can focus on the experience.
+**Jotzen** helps developers build clean, fast note-taking apps — like your own Google Keep — without reinventing the backend.  
+Whether you're building a personal journal, a task manager, or a mobile app, **Jotzen** handles the notes so you can focus on the experience.
+
+### Features
 
 - ✅ RESTful API
 - ✅ JWT Authentication
@@ -40,13 +40,18 @@ Jotzen helps developers build clean, fast note-taking apps — like your own Goo
 
 ## 📦 Getting Started
 
-### 1. Clone the repo
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/jotzen.git
 cd jotzen
 ```
-````
+
+> ⚠️ Replace `your-username` with your actual GitHub username.
+
+---
+
+Let me know if you'd like to add sections like **API Endpoints**, **Environment Variables**, **Project Structure**, or **Deployment Instructions**.
 
 ### 2. Install dependencies
 
