@@ -1,7 +1,3 @@
-Absolutely! Here's a **professional, clean, and well-structured `README.md`** for your **Jotzen** note-taking API project. It’s written in **Markdown** and perfect for GitHub — ideal for impressing collaborators, contributors, or users.
-
----
-
 ### ✅ `README.md` – Jotzen: A Note-Taking API
 
 ````markdown
@@ -108,9 +104,9 @@ curl -X POST http://localhost:5000/api/notes \
 
 ---
 
-## 📷 Preview (Optional)
+<!-- ## 📷 Preview (Optional)
 
-> _Add a screenshot of your API in Postman or Swagger later!_
+> _Add a screenshot of your API in Postman or Swagger later!_ -->
 
 ---
 
@@ -138,8 +134,3 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 > – Jotzen believes in simplicity, clarity, and the power of a single thought.
 
 Made with ❤️ and focus.
-
-```
-
----
-```
