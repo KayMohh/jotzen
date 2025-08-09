@@ -18,12 +18,12 @@ Whether you're building a personal journal, a task manager, or a mobile app, **J
 
 ### Features
 
-- ✅ RESTful API
-- ✅ JWT Authentication
-- ✅ CRUD Operations (Create, Read, Update, Delete)
-- ✅ Search & Filter Notes
-- ✅ Lightweight & Scalable
-- ✅ Built with Zen in mind 🧘
+- RESTful API
+- JWT Authentication
+- CRUD Operations (Create, Read, Update, Delete)
+- Search & Filter Notes
+- Lightweight & Scalable
+- Built with Zen in mind 🧘
 
 ---
 
@@ -43,15 +43,11 @@ Whether you're building a personal journal, a task manager, or a mobile app, **J
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/jotzen.git
+git clone https://github.com/kaymohh/jotzen.git
 cd jotzen
 ```
 
-> ⚠️ Replace `your-username` with your actual GitHub username.
-
 ---
-
-Let me know if you'd like to add sections like **API Endpoints**, **Environment Variables**, **Project Structure**, or **Deployment Instructions**.
 
 ### 2. Install dependencies
 

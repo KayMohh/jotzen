@@ -133,6 +133,9 @@ dist
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+old-server.js
+summer.html
+notes
 
 # Vite logs files
 vite.config.js.timestamp-*
